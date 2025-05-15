@@ -3,4 +3,5 @@ venv/
 
 feedback/
 *.txt
+!requirements.txt
 *.modelfile 

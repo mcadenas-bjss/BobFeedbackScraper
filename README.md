@@ -30,11 +30,12 @@ playwright install chromium
 Run the scraper with a name argument:
 
 ```bash
-python -m feedback_scraper "First Last"
+python run_scraper.py "First Last"
 ```
 
 The script will generate a markdown file with the feedback in the following format:
 
 - Self Review
 - Peer feedback from each team member
+
 # BobFeedbackScraper

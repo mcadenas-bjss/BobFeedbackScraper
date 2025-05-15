@@ -1,0 +1,6 @@
+Scrapy==2.11.1
+scrapy-playwright==0.0.34
+playwright==1.42.0
+requests==2.31.0
+ollama
+pyinstaller
